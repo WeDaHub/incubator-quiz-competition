@@ -1,9 +1,4 @@
 # 答题比赛H5
-
-## 线上演示地址
-https://hello-cloudbase-6g6me2l6003c92be-1305969009.tcloudbaseapp.com/react-starter/index.html
-
-
 ## 项目说明
 在线答题的H5，可以查看本次答题的得分，我的历史答题最高分，全网答题最高分。
 
