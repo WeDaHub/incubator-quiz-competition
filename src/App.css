@@ -1,0 +1,23 @@
+* {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.page h1 {
+  font-size: 20px;
+  padding: 20px 0 0;
+}
