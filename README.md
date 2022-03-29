@@ -20,6 +20,7 @@ https://hello-cloudbase-6g6me2l6003c92be-1305969009.tcloudbaseapp.com/react-star
 npm run start
 ```
 
+注意事项：本地开发时在根目录下新建环境变量文件.env，添加自定义的环境变量REACT_APP_ENV_ID：云环境ID，REACT_APP_REGION：云环境地区，在tcb.js和cloudbaserc.json会用到
 ### 上线部署
 
 ```
